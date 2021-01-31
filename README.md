@@ -1,6 +1,8 @@
 # Donnerskopf WorkAdventure
 
-Das Wochenende ist schon ganz gut gefüllt. Von einem Meeting ins nächste - da kommt Freude auf! Aber was wäre das Netzwerktreffen ohne Doko? Ohne kurze Kaffeepausen, Kellerbar und Klönen? Wir laden euch ein aufs digitale DokoAdventure. Leute die sowieso da sind...
+Herzlich Willkommen auf dem digitalen Donnerskopf - dem DokoAdventure. Ihr könnt euch frei bewegen und den Doko erkunden, aber vor allem andere Leute treffen und mit ihnen ins Gespräch kommen. 
+
+Anders als der echte Doko steht der digitale Doko allen Menschen immer offen. Ladet gerne andere Personen ein, auch dazu zu kommen, auch wenn sie mit uns Pfadfinder*innen vielleicht gar nichts zu tun haben. Bitte geht fair miteinander um und achtet auf eure Worte.
 
 ## So geht's
 
@@ -14,6 +16,12 @@ Ihr braucht:
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/S8C6BqN05ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Feste Termine
+
+### VCP Hessen Stammtisch
+
+Am Donnerstag, den 04. Februar ab 20:00 Uhr treffen wir uns zum erstem Mal zum digitalen VCP Hessen Stammtisch. Alle die in irgendeiner Form etwas mit dem VCP Hessen zu tun haben (in einem Stamm, von der Bundesebene, interessierte Eltern und auch LaFü-Mandatsträger) sind dazu eingeladen sich!
+
 ## Mitmachen
 
 Ihr wollt die oberste Etage bauen, oder den Bunker, oder sonst etwas cooles? 
@@ -21,6 +29,8 @@ Ihr wollt die oberste Etage bauen, oder den Bunker, oder sonst etwas cooles?
 ### Weiterbauen
 
 Das alles geht nur wegen der Corona-Software [WorkAdventure](https://workadventu.re). Um an der Karte weiterzuarbeiten [gibt's Infos hier](https://github.com/thecodingmachine/workadventure-map-starter-kit).
+
+Der Chaos Computer Club hat WorkAdventure sehr erfolgreich für eine Veranstaltung mit über 5000 Teilnehmer\*innen eingesetzt [und ebenfalls sehr hilfreiche und ausführliche Anleitungen geschrieben](https://howto.rc3.world/maps.html).
 
 ### Du haste ne coole neue Idee? Etwas ist kaputt? 
 
