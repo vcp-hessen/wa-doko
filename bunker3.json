@@ -69,6 +69,12 @@
          "id":14,
          "name":"exit_wendeltreppe",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"bunker2.json#wendeltreppe"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -103,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bunker3.json#treppenhaus_runter"
+                 "value":"bunker2.json#treppenhaus_runter"
                 }],
          "type":"tilelayer",
          "visible":true,
