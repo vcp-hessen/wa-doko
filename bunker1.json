@@ -285,7 +285,7 @@
         {
          "name":"openWebsite",
          "type":"string",
-         "value":"docs\/doko_bunker_1.jpg"
+         "value":"https:\/\/vcp-hessen.github.io\/wa-doko\/docs\/doko_bunker_1.jpg"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
